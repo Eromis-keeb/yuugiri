@@ -501,7 +501,7 @@ Vialソフトウェアを開き、緑枠内最上段のキーボード名の部�
 ![スクリーンショット 2025-08-28 13 51 33](https://github.com/user-attachments/assets/efa3c2f1-6351-438d-a0b8-3dc4ee6c0227)<br/>
 <br/>
 
-hiyokochan/matsukazeの名前が選択できるはずです。<br/>
+yuugiriの名前が選択できるはずです。<br/>
 クリックすると・・・<br/>
 ![IMG_7141](https://github.com/user-attachments/assets/b52fad6a-6c09-493c-84af-719013540ef9)<br/>
 <br/>
