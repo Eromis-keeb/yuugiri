@@ -1,4 +1,5 @@
-![IMG_7523](https://github.com/user-attachments/assets/d4d43ece-ee6e-4344-96e7-f05b38fbfb13)
+
+![IMG_7344](https://github.com/user-attachments/assets/cb65861d-41fa-49fe-8ec5-282f44eb5a7e)
 
 # 夕霧,桐壷 共通 ビルドガイド
 夕霧は以下の特徴を備えるキーボードです。
