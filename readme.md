@@ -1,7 +1,9 @@
 
-![IMG_7344](https://github.com/user-attachments/assets/cb65861d-41fa-49fe-8ec5-282f44eb5a7e)
+![IMG_8066](https://github.com/user-attachments/assets/3ead6678-0a14-419a-a3dd-93ed47c28522)
 
-# 夕霧,桐壷 共通 ビルドガイド
+
+
+# 夕霧(桐壷) 共通 ビルドガイド
 夕霧は以下の特徴を備えるキーボードです。
 - ４２キーオーソリニア配列（直交配列、サムクラスタ変則）
 - １つのロータリーエンコーダー（プッシュボタン付き）
@@ -503,16 +505,21 @@ Vialソフトウェアを開き、緑枠内最上段のキーボード名の部�
 
 yuugiriの名前が選択できるはずです。<br/>
 クリックすると・・・<br/>
-![IMG_7141](https://github.com/user-attachments/assets/b52fad6a-6c09-493c-84af-719013540ef9)<br/>
+
+![IMG_8063](https://github.com/user-attachments/assets/0b636f9c-e26b-4f05-8702-a32049113adb)<br/>
 <br/>
 
 青枠内のようにキーボード（マクロパッド）のキーの配列の形をしたキーマップが表示されればOKです。<br/>
-![スクリーンショット 2025-08-28 13 52 24](https://github.com/user-attachments/assets/5c047a3b-35db-4cc0-b770-553ef8bdd836)<br/>
+
+![IMG_8064](https://github.com/user-attachments/assets/093467a1-59f8-40b4-ada0-3b8977d2d5c3)<br/>
 <br/>
 <br/>
 
 これで基板は完成です。<br/>
-![IMG_7140](https://github.com/user-attachments/assets/99368468-6655-4802-80bb-7bb92207391d)<br/>
+
+![IMG_7637](https://github.com/user-attachments/assets/b4d50c39-d3b1-4ea1-8502-21266e758dc7)
+
+<br/>
 vialソフトウェア上のLightingタブでライティングアニメーションを変更するなどして、全LEDがぺかーーーーーーーー！<br/> 
 っと光っていればこれまでの全工程が概ね成功と言えます。お疲れ様でございます。<br/>
 続いて、ロータリーエンコーダーも設定したとおりに機能するか確かめましょう。<br/>
@@ -522,9 +529,8 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 モデルや設定にによって異なりますが原則オン（左側ないし上側にレバーが移動している状態）の本数によってLEDインジケーター（下側ないし中央の３つのLED）の色が変わる仕組みになっています。<br/>
 
 松風/hiyokochan_n11では左側がオフ、右側がオンになっているのでレバーをオン側にした数だけインジケーターの点灯数が変化するか確認してください。<br/>
-1本→1個点灯（レイヤー１に遷移）<br/>
-2本→2個点灯（レイヤー２に遷移）<br/>
-3本→3個点灯（レイヤー３に遷移）<br/>
+1本→1個点灯（レイヤー5に遷移）<br/>
+2本→2個点灯（レイヤー6に遷移）<br/>
 という動作になれば正常です。<br/>
 
 <br/>
