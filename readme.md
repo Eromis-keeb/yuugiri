@@ -546,27 +546,43 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 最後に完成した基板を収めるケースを組み立てていきます。<br/> 
 
-![IMG_7143](https://github.com/user-attachments/assets/48b77268-5ad9-4d88-b39f-990dd993ec45)<br/>
+![IMG_1916](https://github.com/user-attachments/assets/52e0a721-c1ad-4f9d-8f42-1f4b87ee41ea)
+<br/>
 
 
-![IMG_7145](https://github.com/user-attachments/assets/ea4c13c2-067e-4e5b-ae53-6a06e2e94eb8)<br/>
+![IMG_1923](https://github.com/user-attachments/assets/f17fb04d-1946-4710-9deb-0aebf71cacc1) 
+事前に穴の位置を確認します。
+<br/>
+<br/>
+![IMG_1925](https://github.com/user-attachments/assets/fbf154cf-fc77-4855-9822-14c7eb85231a)
+トッププレートとボトムプレートを重ねて穴の位置にズレがないか確認し、プレートの裏表を見ておきます。
 <br/>
 <br/>
 
 まずボトムプレートの保護シートを剥がします（裏表とも）<br/>
-![IMG_7146](https://github.com/user-attachments/assets/3d8bdab9-0fc3-41aa-9bfb-66e1712399a2)<br/>
+![IMG_1919](https://github.com/user-attachments/assets/3d021817-bfa0-43fe-974b-0c11188a0f90)
+<br/>
 <br/>
 
+![IMG_1927](https://github.com/user-attachments/assets/c140ab93-f006-4e62-aab0-7a2b0c2651c9)
+フィルムを剥がしたら次に四隅の足を作ります。<br/>
+
+![IMG_1911](https://github.com/user-attachments/assets/5f94248c-7be3-45ce-95be-04980c4b9426)
+![IMG_1914](https://github.com/user-attachments/assets/22a0fed4-af28-45aa-be1b-5c50b34d3500)
+7mm〜のM2ネジで足部品を作ります。
+
+![IMG_1918](https://github.com/user-attachments/assets/a5909568-9c16-4d75-bef4-e57555f792b9)
+
 緑枠内の箇所９箇所にスペーサをM2ネジ（5-7mm）を使ってとめていきます。<br/>
-![IMG_7147](https://github.com/user-attachments/assets/8e0e1313-fc3a-4699-8d8b-131e588ff830)<br/>
 <br/>
 <br/>
 写真のように表側にスペーサーを置き、裏側からM2ネジでとめます。<br/>
 ![IMG_7148](https://github.com/user-attachments/assets/f2d89995-7d26-4550-8b5b-ca6bbf668bb6)<br/>
-<br/>
+
+![IMG_1922](https://github.com/user-attachments/assets/d8b32c3f-0345-48b1-9acf-489bec108ee6)<br/>
 <br/>
 緑枠内の箇所に同じようにスペーサーをとめていきます。<br/>
-![IMG_7149](https://github.com/user-attachments/assets/bb93b2c7-48ff-40ce-93ee-9790f9a963a5)<br/>
+<br/>
 <br/>
 
 とめきるとこういう形になります。<br/>
