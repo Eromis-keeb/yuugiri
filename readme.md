@@ -597,16 +597,17 @@ Vol＋、Vol−に設定して確認すると分かり易いかと思います�
 
 
 <br/>
+しっかりとハメこんだら・・<br/>
 
 ![IMG_1920](https://github.com/user-attachments/assets/200fd08a-439f-4cf8-b001-ea499f0ad68d)
 
 
 <br/>
 <br/>
+続いてボトムプレートにミドルフレームをスペーサーの穴の位置に合わせ枠を付けます。。<br/>
 
 ![IMG_8081](https://github.com/user-attachments/assets/a4228dc3-6183-48df-867a-221752dfd879)
 
-続いてボトムプレートにミドルフレームをスペーサーの穴の位置に合わせ枠を付けます。。<br/>
 <br/>
 
 
