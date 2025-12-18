@@ -57,13 +57,14 @@ MXキーキャップ |x42
 <br/>
 <br/>
 ## 組み立て
-基板部分は夕霧を使用して解説していきますが、どのモデルでも内容は同じなので適宜読み替えてください。<br/>
+基板部分は桐壺基板を使用して解説していきますが、夕霧でもキーの数が違うだけで内容は同じなので適宜読み替えてください。<br/>
 ところどころ別基板の写真が使われいる箇所がありますが、こちらも適宜読み替えて眼の前の基板と照らし合わせて組み立てを行ってください。
 <br/>
 写真でマイコンが既に付いているものがありますが、組み立て上確認しながらやりたい場合は先にマイコンのはんだ付けをしてから作業すると確実になります。<br/>
 但し、はんだ付けに慣れていない場合は、マイコンを付けた状態でLEDやSMDダイオードなど細かい部品は取り付け辛い場合があるため、ここではマイコンを付けない状態を前提として説明をしていきます。<br/>
 
-![IMG_5639](https://github.com/user-attachments/assets/3f2c1ec7-6dbe-49a3-aedd-8af592dcd8de)
+![IMG_7268](https://github.com/user-attachments/assets/83c45d9f-0df4-4102-992e-d6bb0a691be9)
+
 LED→SMDダイオード→スイッチソケットの順ではんだ付けします。<br/>
 <br/>
 <br/>
@@ -91,7 +92,8 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 <br/>
 
 基板裏面の赤枠の部分にはんだ付けしていきます。
-![IMG_6978](https://github.com/user-attachments/assets/6da44c1f-37d9-429c-a56c-41e2157881c9)
+![IMG_7288](https://github.com/user-attachments/assets/c51157f7-9c86-458f-9a45-57fbd4add298)
+
 ![IMG_6978](https://github.com/user-attachments/assets/1066a164-ddc4-4c4d-a158-0bed5a185879)
 
 <br/>
@@ -108,14 +110,16 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 予備はんだをこて先で溶かし部品をスライドさせれば上手く付けられると思います。<br/>
 スライドさせたら、はんだごてを離し１−２秒ほど部品をそのまま保持すると上手く行きます。<br/>
 はんだごてより先に保持した部品を動かさないように気をつけましょう。
-![IMG_6981](https://github.com/user-attachments/assets/292e74ae-63ef-47fd-85d2-b059ce07a822)
+![IMG_7290](https://github.com/user-attachments/assets/80c3ec40-5fb8-4268-a2b5-c52abaccdd8a)
+
 
 
 <br/>
 <br/>
 
 片側がきっちり固定できたら反対側もはんだ付けしていきます。<br/>
-![IMG_6982](https://github.com/user-attachments/assets/57217c4a-f415-4bd2-98ba-0d104ec01794)
+![IMG_7294](https://github.com/user-attachments/assets/2ce718f5-375b-4984-8ae8-3cbc50bd3005)
+
 
 <br/>
 <br/>
@@ -124,21 +128,28 @@ LED→SMDダイオード→スイッチソケットの順ではんだ付けし�
 #### 1-2.LED本体を取り付け
 <br/>
 <br/>
-基板裏面のLED1-LED14の部分にLED本体をはんだ付けしていきます。<br/>
+基板裏面のLED1-LED42の部分にLED本体をはんだ付けしていきます。<br/>
 
-![IMG_6985](https://github.com/user-attachments/assets/fb3317a1-f6a9-45b3-9ced-8fe0db84e212)
+![IMG_7270](https://github.com/user-attachments/assets/04035c06-9f1c-4477-a583-253df22f24e2)
+
 <br/>
 <br/>
 赤枠部分Gndの表記の部分にこれまでの要領と同じに予備はんだをしていきます。
+
 ![IMG_6986](https://github.com/user-attachments/assets/cfc7f62b-657e-446c-8aac-ce780027e952)
+
 <br/>
 <br/>
 LED本体オレンジ枠のように切り欠きの部分と予備はんだをしたGndの部分を合わせるようにLEDを設置します。
+
 ![IMG_6987](https://github.com/user-attachments/assets/92e451f6-9ef9-4ca4-97b9-82680681c663)
+
 <br/>
 <br/>
 設置をするとこのようになります。
+
 ![IMG_6988](https://github.com/user-attachments/assets/8cbd83dc-d4f7-4b57-ae28-24f5f5b7a637)
+
 <br/>
 <br/>
 ピンセットなどでLED本体をしっかり固定し、はんだごてで予備はんだを溶かしてはんだ付けします。<br/>
@@ -149,14 +160,18 @@ LED本体オレンジ枠のように切り欠きの部分と予備はんだを�
 <br/>
 
 同じ要領で全てのLEDのGnd部とLED本体の切り欠き部をはんだ付けしていきます。
-![IMG_6989](https://github.com/user-attachments/assets/4b3bf301-e07d-4d0d-8c74-0dbf4d4809e7)
+
+![IMG_7280](https://github.com/user-attachments/assets/d3fb49e1-6464-48bc-887b-6df833726cda)
+
+
 <br/>
 <br/>
 
 続けてDIｎ、DOut、VCCというように順番にはんだ付けしていきます。
 はんだごてにはんだを乗せてからパッドに当てピンの根本から滑らすようにすると綺麗にできると思います。
 長い間当てすぎないようにしましょう。1−2秒は大丈夫な気がします。
-![IMG_6991](https://github.com/user-attachments/assets/de56f8a9-e921-4349-b2f1-1f280d11ef41)
+![IMG_7301](https://github.com/user-attachments/assets/244db11a-9b7a-41e1-b533-bc9c2cc06c94)
+
 
 <br/>
 <br/>
@@ -189,7 +204,8 @@ SMDダイオードには図の赤枠内のように縦線が入っています�
 <br/>
 LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダイオードの片側をはんだ付けしていきます。<br/>
 それが出来たら反対側もはんだ付けしていきます。
-![IMG_6997](https://github.com/user-attachments/assets/b4c03a3a-a197-48af-9ec3-1cb1e3cf96f7)
+![IMG_7305](https://github.com/user-attachments/assets/f835735d-5859-497c-a97e-27bf47cfc53f)
+
 <br/>
 <br/>
 <br/>
@@ -198,7 +214,7 @@ LEDの時と同じ要領で縦線の向きに注意しながら全てのSMDダ�
 <br/>
 <br/>
 
-![IMG_7076](https://github.com/user-attachments/assets/73aafaac-82a4-4145-a90a-f7f581871770)<br/>
+![IMG_7306](https://github.com/user-attachments/assets/12efc935-6b9e-4e0e-b541-5280ecb12dcf)<br/>
 <br/>
 
 
@@ -217,8 +233,9 @@ MXスイッチソケットを取り付けていきます。<br/>
 <br/>
 次にスイッチソケット本体を乗せていきます。<br/>
 
-![IMG_7079](https://github.com/user-attachments/assets/8cb72141-86e1-4702-8b44-efd529bc4beb)<br/>
 <br/>
+
+![IMG_7308](https://github.com/user-attachments/assets/8927fc8b-69c9-47b6-853f-f71225608940)<br/>
 乗せきったら予備はんだをした箇所をはんだごてで温めて溶かし、はんだ付けしていきます。<br/>
 はんだを溶かす際、ピンセットなどでソケット本体をしっかり押さえてやることがポイントです。<br/>
 浮いてしまった場合は慌てずしっかり押さえながら溶かし直しせば大丈夫です。<br/>
@@ -228,8 +245,9 @@ MXスイッチソケットを取り付けていきます。<br/>
 片側のはんだ付けが終わったらもう片側にもはんだを流し込みスイッチソケットを固定していきます。<br/>
 この際、横側などからしっかり確認をし、ソケットが浮いていないかを確認しながら行ってください。<br/>
 
-![IMG_7080](https://github.com/user-attachments/assets/83cd8f6f-8af0-4f26-b614-8478223bffc1)<br/>
 <br/>
+
+![IMG_7311](https://github.com/user-attachments/assets/24687c95-f8f3-4516-bc6c-a27c1f17ef99)<br/>
 <br/>
 <br/>
 
@@ -238,22 +256,25 @@ MXスイッチソケットを取り付けていきます。<br/>
 <br/>
 <br/>
 
-トグルスイッチをはんだ付けしていきます。３つ付けます。
-![IMG_6999](https://github.com/user-attachments/assets/fbf53ff5-9738-4306-8a47-0292efc8cb3e)
+トグルスイッチをはんだ付けしていきます。2つ付けます。
+![IMG_7287](https://github.com/user-attachments/assets/4583477e-0d3f-4b78-9093-f3ab22599c79)
+
 <br/>
 <br/>
 
 基板表に取り付け、裏面からはんだ付けしていきます。<br/>
-基板表面、TG1,TG2,TG3にそれぞれ１つずつ順番に付けていきます。<br/>
-![IMG_7001](https://github.com/user-attachments/assets/de0527ea-8507-435b-b950-60c800adbc39)
+基板表面、TG1,TG2にそれぞれ１つずつ順番に付けていきます。<br/>
 <br/>
 <br/>
 裏面にフラックスを塗布したら、表面からトグルスイッチを基板の穴に合わせ差し込みます。<br/>
 まっすぐ傾きがないように基板に対して水平にして固定（テープなどでも可）します。<br/>
-![IMG_7002](https://github.com/user-attachments/assets/b0365251-a424-47e5-9c57-f22117c9f95b)
+
+![IMG_7292](https://github.com/user-attachments/assets/1328f909-6c77-4da5-baf4-623caf7613a3)
+
 <br/>
 <br/>
 はんだごてにはんだを少量乗せて・・・
+
 ![IMG_7003](https://github.com/user-attachments/assets/3ad38898-30b8-43a6-ae3c-565abb9efc1c)
 <br/>
 <br/>
@@ -279,7 +300,7 @@ MXスイッチソケットを取り付けていきます。<br/>
 <br/>
 <br/>
 
-３つのピンの固定が出来たら同じ要領、真ん中→水平確認→左右ピンの順番でTG2、TG3もはんだ付けしていきます。
+３つのピンの固定が出来たら同じ要領、真ん中→水平確認→左右ピンの順番でTG2もはんだ付けしていきます。
 ![IMG_7007](https://github.com/user-attachments/assets/5a849d9c-f1d7-4011-94bb-4814b2ea1ded)
 <br/>
 <br/>
@@ -296,7 +317,7 @@ MXスイッチソケットを取り付けていきます。<br/>
 <br/>
 <br/>
 Millmaxを使わずに組み立てることも可能です。その場合はこの部分を飛ばし直接ロータリーエンコーダーを取り付けてください。<br/>
-Millmaxを１つのロータリーエンコーダーに対して５つ、３つのロータリーエンコーダーを取り付けるので計15個はんだ付けしていきます。<br/>
+Millmaxを１つのロータリーエンコーダーに対して5個はんだ付けしていきます。<br/>
 非常に小さい部品かつ、そこそこ高価なのでなくさないように気をつけて作業してください。<br/>
 
 ![IMG_7010](https://github.com/user-attachments/assets/15054044-bcfc-4493-9579-a3180693c7cb)
@@ -354,8 +375,6 @@ Millmaxを使わずに直接取り付ける場合は、この時点でマスキ�
 <br/>
 <br/>
 
-同じ要領で他の２つも差し込みます。
-![IMG_7018](https://github.com/user-attachments/assets/d1ad13f0-e899-47e5-9056-484f9c8df659)
 <br/>
 <br/>
 Millmaxを使う場合はロータリーエンコーダーは脱着が可能ですが、無理やり外したりすると足が折れてしまう可能性があるため頻繁な差し替えは推奨していません。<br/>
