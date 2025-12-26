@@ -10,19 +10,8 @@
 - 花柄をあしらった標準プレート
 - 自由に柄など（0.5mm以下の紙など）をあしらえる額縁（夕霧は裏側のみ）プレート
 - - ※作例では千代切り紙（バックストリートファクトリー製）を使用した例です。キットには同梱されません。  
-Make example for this keyboard (after setting up your build environment):
 
 ファームウェアはVial対応です。  
-    make yuugiri:default
-
-vialのソフトウェアから自由にキーマップを変更可能です。
-Flashing example for this keyboard:
-
-    make yuugiri:default:flash
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
-
-## Bootloader
 
 ## 必要な物
 
