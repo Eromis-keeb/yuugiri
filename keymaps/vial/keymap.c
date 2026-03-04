@@ -143,10 +143,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 
     [_le] = LAYOUT(
-       KC_1, 	KC_2, 	KC_3,	  KC_4,	          KC_5,	        KC_6, 	KC_7,   KC_8, 		KC_9,	 	KC_0, 	 KC_NO,	  KC_NO,
-       KC_NO,	KC_NO, 	KC_NO,	  KC_NO,	  KC_NO,	KC_NO,  KC_NO,  KC_NO,   	KC_NO,	 	KC_NO, 	 KC_NO,   KC_NO,
-       KC_NO,	KC_NO, 	KC_NO,	  KC_NO,	  KC_NO,	KC_NO,  KC_NO,  KC_NO,      	KC_NO,   	KC_NO,	 KC_NO,   KC_NO,
-                 	KC_NO,    KC_NO,	  KC_NO,  	         	KC_NO,          KC_NO,	        KC_NO,   KC_NO
+       KC_1, 	KC_2, 	KC_3,	  KC_4,	    KC_5,	KC_6,    	KC_7,  KC_8,   KC_9,	KC_0, 	 KC_PMNS,  KC_PPLS,
+       KC_NO,	KC_NO, 	KC_LEFT,  KC_DOWN,	KC_UP,	KC_RIGHT,   KC_4,  KC_5,   KC_6,	KC_NO, 	 KC_PAST,  KC_PSLS,
+       KC_NO,	KC_NO, 	KC_NO,	  KC_NO,    KC_NO,	KC_NO,      KC_1,  KC_2,   KC_3,   	KC_NO,	 KC_NO,    KC_NUM,
+                 	KC_NO,    KC_NO,	  KC_NO,  	         	KC_0,  KC_DOT, KC_ENT,  KC_ESC
     ),
 
 
@@ -171,7 +171,7 @@ const uint16_t PROGMEM encoder_map[][NUM_ENCODERS][2] = {
     [2] = {ENCODER_CCW_CW(KC_VOLD, KC_VOLU)},
     [3] = {ENCODER_CCW_CW(KC_VOLD, KC_VOLU)},
     [4] = {ENCODER_CCW_CW(KC_VOLD, KC_VOLU)},
-    [5] = {ENCODER_CCW_CW(KC_VOLD, KC_VOLU)},
+    [5] = {ENCODER_CCW_CW(KC_BSPC, KC_DEL)},
     [6] = {ENCODER_CCW_CW(KC_VOLD, KC_VOLU)}
 };
 #endif
