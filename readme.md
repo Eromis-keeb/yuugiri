@@ -29,25 +29,25 @@
 脚|x4
 
 ### 各自用意するもの
-部品|個数
---|--
-RP2040-ZERO|x1
-MX用スイッチソケット|x42
-SK6812MINI-E |x42
+部品|個数|備考
+--|--|--
+RP2040-ZERO|x1 |https://shop.talpkeyboard.com/products/rp2040-zero-usb-c-compatible
+MX用スイッチソケット|x42 |https://shop.talpkeyboard.com/products/mx-kailh-pcbsocket-10
+SK6812MINI-E |x42 |https://akizukidenshi.com/catalog/g/g115478/
 Millmax（なくても作れます）※非対応基板もあり |x5 |https://www.marutsu.co.jp/pc/i/40514834/
-高さ2.0mmコンスルー(12ピン) |x2
-SMDダイオード |x43
-EC12互換ロータリーエンコーダ(プッシュスイッチ付き)※遊舎工房さんの高さ17.5mmの物を想定 |x1
-チップ抵抗 2012 1KΩ |x2
-MOSFET 50V300mA BSS138 |x1
-トグルスイッチ|x2
-スペーサー（9mm）|x9
-M2ネジ（5-6mm）|x9
-M2ネジ（7-8mm）|x9
+高さ2.0mmコンスルー(12ピン) |x2|https://shop.yushakobo.jp/products/31?variant=37665714372769
+SMDダイオード |x43 |https://shop.talpkeyboard.com/products/6294480b0ebded1af895c437
+EC12互換ロータリーエンコーダ(プッシュスイッチ付き)※遊舎工房さんの高さ17.5mmの物を想定 |x1 |https://shop.yushakobo.jp/products/3762?variant=46240750436583
+チップ抵抗 2012 1KΩ |x2 |https://akizukidenshi.com/catalog/g/g111796/
+MOSFET 50V300mA BSS138 |x1 |https://akizukidenshi.com/catalog/g/g104232/
+トグルスイッチ|x2 |https://akizukidenshi.com/catalog/g/g102399/
+スペーサー（9mm）|x9 |https://shop.yushakobo.jp/products/a0800c2?variant=37665435287713
+M2ネジ（5-6mm）|x9 |https://shop.yushakobo.jp/products/a0800t2
+M2ネジ（7-8mm）|x9 |https://shop.yushakobo.jp/products/a0800t2
 MXキースイッチ |x42
 MXキーキャップ |x42
 ロータリーエンコーダーノブ（直径22mmくらいまで）|x1
-ゴム脚 |x2〜４
+ゴム脚 |x2〜４ |https://shop.yushakobo.jp/products/a0800ur-01-6?variant=51764660764903
 
 部品はTALPKEYBOARDさん、遊舎工房さん、秋月電子通商さん、マルツオンラインさんで調達しています。<br/>
 <br/>
