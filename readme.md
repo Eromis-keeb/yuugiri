@@ -44,7 +44,7 @@ MOSFET 50V300mA BSS138 |x1 |https://akizukidenshi.com/catalog/g/g104232/
 スペーサー（9mm）|x9 |https://shop.yushakobo.jp/products/a0800c2?variant=37665435287713
 M2ネジ（5-6mm）|x9 |https://shop.yushakobo.jp/products/a0800t2
 M2ネジ（7-8mm）|x9 |https://shop.yushakobo.jp/products/a0800t2
-MXキースイッチ |x42
+MXキースイッチ |x42 |keyygeek Y2,Y3など一部はめ込みが硬いキースイッチを確認しています（硬いが入る）
 MXキーキャップ |x42
 ロータリーエンコーダーノブ（直径22mmくらいまで）|x1
 ゴム脚 |x2〜４ |https://shop.yushakobo.jp/products/a0800ur-01-6?variant=51764660764903
