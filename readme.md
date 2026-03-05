@@ -790,7 +790,11 @@ https://note.com/eromis_sumomorry/n/nb64a1454d9ee?sub_rt=share_pw<br/>
 折り紙としては少々高いですが、その分の価値はあります。<br/>
 是非とも色々な組み合わせを試していただきたいです。<br/>
 素敵なのが出来上がったらSNS等で共有していただけるととても嬉しいです。<br/>
-<br/>![IMG_7086](https://github.com/user-attachments/assets/f25e8529-700f-47ea-b31b-9713d282fd34)
+<br/>
+![IMG_8765](https://github.com/user-attachments/assets/a8f92c09-7767-4712-bebd-753b34dadf6a) <br/>
+![IMG_8761](https://github.com/user-attachments/assets/2a0be0bb-d467-41f7-91b3-e8ad5641ed3d) <br/>
+
+
 
 <br/>
 <br/>
