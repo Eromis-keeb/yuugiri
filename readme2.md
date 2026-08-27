@@ -308,10 +308,10 @@ MXキーキャップ |x10
 トッププレートを取り付けていきます。<br/>
 <img width="2048" height="1536" alt="6ABC7785-00CC-48D6-BAA3-ED3078C4DF02_1_102_o" src="https://github.com/user-attachments/assets/4044bec1-0053-4979-870b-2114a9207cb5" /> <br/>
 トップ用ネジ（5mm）を9本用意します。<br/>
-トッププレートのフィルムを剥がします。<br/>
 <br/>
 <br/> 
 
+トッププレートのフィルムを剥がします。<br/>
 <img width="2048" height="1536" alt="FC227CDE-E50E-4C0B-B249-CDD26495B2C6_1_102_o" src="https://github.com/user-attachments/assets/97422cb6-dc7c-404b-8271-11fcd2dd9786" /> <br/>
 
 
@@ -330,13 +330,14 @@ MXキーキャップ |x10
 スペーサーの穴が見えている部分にネジ止めします。<br/>
 <img width="1536" height="2048" alt="713B5107-C2AD-4E29-A48B-966814B1D23C_1_102_o" src="https://github.com/user-attachments/assets/2a39adf0-8c29-4aa5-b9b3-0af60502a77c" /> <br/>
 
-<img width="4032" height="3024" alt="4DA502C2-B3EC-49EA-B71E-31B873971517_1_201_a" src="https://github.com/user-attachments/assets/a08a5d5f-1463-4e86-b6af-b74ff0f32eb8" />
+<img width="4032" height="3024" alt="4DA502C2-B3EC-49EA-B71E-31B873971517_1_201_a" src="https://github.com/user-attachments/assets/a08a5d5f-1463-4e86-b6af-b74ff0f32eb8" /> <br/>
 
 赤枠内の９箇所に5mmネジで止めます。<br/>
 最初は軽く締めて対角を少しずつ絞めるのがポイントです。<br/>
 <br/>
 <br/>
 
+<img width="4032" height="3024" alt="0895899D-D148-4345-B587-F4043968AA08_1_201_a" src="https://github.com/user-attachments/assets/d93ec941-0c8d-496c-95f0-3c708634d29b" /> <br/>
 
 これで本体は完成です！<br/>
 
@@ -349,12 +350,12 @@ MXキーキャップ |x10
 仕上げは好きなキースイッチやキーキャップを付けて使えるようにしていきます。<br/>
 <br/>
 
-<img width="768" height="1024" alt="4ABEA8D3-D12D-487E-83DD-62AB7FAC8BA8_1_105_c" src="https://github.com/user-attachments/assets/60d685e7-58c0-4c60-8ff6-bdd2687e076b" /> <br/>
+<img width="4032" height="3024" alt="532B0FAB-36B5-4FE2-86EE-6683EA0BEB74_1_201_a" src="https://github.com/user-attachments/assets/ce13fd36-7cf3-44fd-b9ff-c633fe0fda1f" /> <br/>
 <br/>
 <br/>
 
 キースイッチを付けます。<br/>
-<img width="768" height="1024" alt="2E28995F-BBE6-456D-83DE-04B62DA539C6_1_105_c" src="https://github.com/user-attachments/assets/ba5b681c-5fd6-497e-8c6d-447db5fa36f6" /> <br/>
+<img width="4032" height="3024" alt="B135DF51-C604-4B9E-8D4D-19BCB0C0737F_1_201_a" src="https://github.com/user-attachments/assets/24bc2256-f5cf-4929-a1d9-cef71e665215" /> <br/>
 キースイッチによっては嵌め込みが硬い場合もあります。<br/>
 多くはそれほど力をかけずとも付くはずなので、無理に力を入れすぎてピンを折ったり曲げたりしないように注意してください。<br/>
 万一、曲がってしまった場合はラジオペンチなどで挟んでまっすぐ矯正すれば再び使えることが殆どです。<br/>
@@ -363,21 +364,26 @@ MXキーキャップ |x10
 <br/>
 
 キースイッチが付いたらキーキャップを取り付けます。<br/>
-<img width="768" height="1024" alt="9D435325-2163-40D6-9ADD-80D30E544996_1_105_c" src="https://github.com/user-attachments/assets/78eef0c9-9f59-4085-8a33-2dff70bfe6c4" /> <br/>
+<img width="4032" height="3024" alt="1D9DE90B-D8B4-4EDA-9EA2-3777F0D7F37B_1_201_a" src="https://github.com/user-attachments/assets/ce0799e7-16d5-49c7-a6a9-9c5a837bd256" /> <br/>
+<br/>
 <br/>
 
 お好みのデザイン、カラーのキーキャップを取り付けることでいろいろな見た目を楽しめます。<br/>
-<img width="768" height="1024" alt="2566B36B-CC7B-4F48-9C30-3C5D00551BCD_1_105_c" src="https://github.com/user-attachments/assets/439b71fa-962a-4cbc-b543-69fca6e8f9cf" /> <br/>
+<img width="4032" height="3024" alt="8C022E00-EEBF-4ACB-9AE7-6AF1C11BEAD9_1_201_a" src="https://github.com/user-attachments/assets/3d3f132c-f68b-43a6-bf26-a5ea661f72a4" />
+ <br/>
 自作キーボードのカスタマイズの肝の部分ですね。<br/>
 <br/>
 <br/>
 
 最後にロータリーエンコーダーノブを取り付けて完成！<br/>
-<img width="768" height="1024" alt="0CDAD361-1CCC-4EC1-B44F-A45255D15710_1_105_c" src="https://github.com/user-attachments/assets/f0bb8e99-21f5-4ad1-a014-c286bb35c9f1" /> <br/>
+<img width="4032" height="3024" alt="DD8AEAFB-2BEE-4247-B526-0F0D4E412172_1_201_a" src="https://github.com/user-attachments/assets/31bf7f99-a4df-482e-a2cd-6fd62180c896" /> <br/>
 付属の標準ノブでも良いですし様々な作家さんの作るアルチザンエンコーダーノブもオススメです。<br/>
 ビルドガイド上は直径17mmくらいまでとなってますが、作者の確認する限りでは22mm位までは一応付きます。（使いやすいかどうかは別）<br/>
-
 <br/>
+
+<img width="2048" height="1536" alt="DF2EB622-CA4E-45F1-B88B-D49E22E8F367_1_102_o" src="https://github.com/user-attachments/assets/6f210ea7-b3d0-4e46-a07a-690a81cc9244" /> <br/>
+<br/>
+
 
 お疲れ様でした！以上でキーボードは完成です。<br/>
 PCに繋ぎ動作確認を取ってください。<br/>
