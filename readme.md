@@ -18,7 +18,7 @@
 本キットには基板完成済みの通常版と基板の組み立てが必要なチャレンジキットがあります。<br/>
 通常版を購入された場合は８のケースの組み立てまで飛ばして組み立ててください。<br/>
 →通常版用ビルドガイドはこちら <br/>
-https://github.com/Eromis-keeb/hiyokochan_f10_wakamurasaki/blob/f4fc34ff9eb91ac85d08ab868f253dc26cb89d34/readme_2.md <br/>
+https://github.com/Eromis-keeb/yuugiri/blob/d6145a8e0a431de6ed0315012fdd51fe3665d1de/readme2.md<br/>
 <br/>
 通常版の場合も最初から最後まで読むことである程度仕組みが解るので読んで頂いたほうが良いと思います。<br/>
 
