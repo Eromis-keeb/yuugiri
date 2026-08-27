@@ -289,11 +289,23 @@ MXキーキャップ |x10
 <br/>
 
 
-### 3.トッププレートの取り付け
-2-3までに作った本体にトッププレートを取り付けていきます。<br/>
+#### 2-4.ミドルプレート上の取り付け
+2-3までに作った本体にミドルプレート上を取り付けていきます。<br/>
+<img width="2048" height="1536" alt="A036699B-0451-461A-958C-4E231EA188A2_1_102_o" src="https://github.com/user-attachments/assets/4eba65a0-f884-47f2-aa8b-f1e6838accef" /> <br/>
+
+<img width="4032" height="3024" alt="13C1A582-3570-464F-B350-C30F1B1ABE01_1_201_a" src="https://github.com/user-attachments/assets/47304b08-fc7b-4161-aa06-56f5ba49186f" /> <br/>
+ミドルプレート上もミドルプレート下と同様に左右で分かれているので一つづつ乗せる形で取り付けます。<br/>
+<img width="2048" height="1536" alt="DD4A03FF-2534-4C7F-ACED-91FA95F87CA3_1_102_o" src="https://github.com/user-attachments/assets/ee7a0a0e-1778-4298-b979-6a6f6b4773a9" /> <br/>
+正しく取り付けられていれば、ミドルフレームとミドルプレートの高さが同じになっているはずです。 <br/>
+そうでない場合はこれまでの手順にミスがあるので見直してください。<br/>
+<img width="2048" height="1536" alt="C85A05D4-AF0C-4029-AF0E-095D8ECE9182_1_102_o" src="https://github.com/user-attachments/assets/b78cd266-2595-4597-9910-56a784c83900" /> <br/>
+ミドルプレート上取り付け完了<br/>
+<br/>
 <br/>
 
-<img width="1024" height="768" alt="88AF1C7F-B106-4304-A05C-04D1353E6571_1_105_c" src="https://github.com/user-attachments/assets/045a6dba-f8c5-494d-8734-9d939debbc09" /> <br/>
+
+### 3.トッププレートの取り付け<br/>
+
 トップ用ネジ（5mm）を６本用意します。<br/>
 トッププレートのフィルムを剥がします。<br/>
 <br/>
