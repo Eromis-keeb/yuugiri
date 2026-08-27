@@ -305,32 +305,42 @@ MXキーキャップ |x10
 
 
 ### 3.トッププレートの取り付け<br/>
-
-トップ用ネジ（5mm）を６本用意します。<br/>
+トッププレートを取り付けていきます。<br/>
+<img width="2048" height="1536" alt="6ABC7785-00CC-48D6-BAA3-ED3078C4DF02_1_102_o" src="https://github.com/user-attachments/assets/4044bec1-0053-4979-870b-2114a9207cb5" /> <br/>
+トップ用ネジ（5mm）を9本用意します。<br/>
 トッププレートのフィルムを剥がします。<br/>
 <br/>
-<br/>
+<br/> 
+
+<img width="2048" height="1536" alt="FC227CDE-E50E-4C0B-B249-CDD26495B2C6_1_102_o" src="https://github.com/user-attachments/assets/97422cb6-dc7c-404b-8271-11fcd2dd9786" /> <br/>
+
 
 裏表に注意してトッププレートを本体に乗せます。<br/>
-<img width="1024" height="768" alt="F659118D-63A7-4F28-9385-391F5161828B_1_105_c" src="https://github.com/user-attachments/assets/71e0fc7a-d21a-4308-97ce-3c09bbf6d5df" /> <br/>
+<img width="4032" height="3024" alt="AB16673B-51A5-4EE5-9B4F-0CE3B1468421_1_201_a" src="https://github.com/user-attachments/assets/edba315f-67d1-45ad-be5b-21dbaff8b655" /> <br/>
 ※裏表が違うとネジ穴が合いません。<br/>
 <br/>
 <br/>
 
 トッププレートを載せたらネジ止めしていきます。<br/>
-<img width="1024" height="768" alt="9685B174-E480-4726-BCA6-D20768C895E7_1_105_c" src="https://github.com/user-attachments/assets/4adcbcfd-bb58-45be-9f6b-63980ad08966" /> <br/>
+<img width="2048" height="1536" alt="56FB2710-B26E-427A-BF59-D276A27607E2_1_102_o" src="https://github.com/user-attachments/assets/355b6bd9-cf95-4f2a-bc97-77099d5a38bb" />
+ <br/>
 <br/>
 <br/>
 
 スペーサーの穴が見えている部分にネジ止めします。<br/>
-<img width="768" height="1024" alt="05D33CBA-0150-461E-A1E4-CA97F436D66D_1_105_c" src="https://github.com/user-attachments/assets/4e78fb0f-a343-4c3a-9832-539942e17138" /> <br/>
-青枠内の６箇所に5mmネジで止めます。<br/>
+<img width="1536" height="2048" alt="713B5107-C2AD-4E29-A48B-966814B1D23C_1_102_o" src="https://github.com/user-attachments/assets/2a39adf0-8c29-4aa5-b9b3-0af60502a77c" /> <br/>
+
+<img width="4032" height="3024" alt="4DA502C2-B3EC-49EA-B71E-31B873971517_1_201_a" src="https://github.com/user-attachments/assets/a08a5d5f-1463-4e86-b6af-b74ff0f32eb8" />
+
+赤枠内の９箇所に5mmネジで止めます。<br/>
 最初は軽く締めて対角を少しずつ絞めるのがポイントです。<br/>
 <br/>
 <br/>
 
+
 これで本体は完成です！<br/>
-<img width="768" height="1024" alt="9C4A4B2B-13B7-4023-B05A-D2D864FA4B05_1_105_c" src="https://github.com/user-attachments/assets/a4c6496a-72c8-4979-ba0c-a8e716d7854b" /> <br/>
+
+ <br/>
 <br/>
 <br/>
 
