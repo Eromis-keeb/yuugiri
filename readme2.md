@@ -142,27 +142,29 @@ MXキーキャップ |x10
 #### 1-2.スペーサー取り付け<br/>
 <br/>
 
-<img width="1024" height="768" alt="354A4D05-CDDB-4463-B3B3-B86F9B601560_1_105_c" src="https://github.com/user-attachments/assets/44908989-16b5-4e3b-becb-fef16dad86a5" /> <br/>
-ボトムプレートと１−１で作成したマグネット脚を用意します。<br/>
+<img width="2048" height="1536" alt="7C98727F-9FBD-485A-A90A-8EDAA6325B6F_1_102_o" src="https://github.com/user-attachments/assets/6d29a13c-be6e-40c0-8ecb-69eed15918cd" /> <br/>
+ボトムプレートと１−１で作成したマグネット脚、通常脚、スペーサー、ボトム用ネジを用意します。<br/>
 <br/>
 <br/>
 
 ボトムプレートのシートを剥がします。<br/>
-<img width="4032" height="3024" alt="B7173BBF-B541-4CDE-928F-803535075C77_1_201_a" src="https://github.com/user-attachments/assets/fbd69656-92b2-49e0-b0b3-2522296bb691" /> <br/>
-裏表があるので気をつけてください。切り欠きが左側に来る状態が正しい向きです。<br/>
+<img width="2048" height="1536" alt="E5ACC21F-AF40-4758-B8E5-7311C72D2A7D_1_102_o" src="https://github.com/user-attachments/assets/c8d4eacc-c105-458f-b9c6-4fad29d5f2e9" /> <br/>
+裏表があるので気をつけてください。トッププレート（アクリル）を重ねるなどして穴の位置を合わせておくとよいでしょう。<br/>
 <br/>
 <br/>
 
-６箇所にスペーサーを取り付けていきます。<br/>
-<img width="4032" height="3024" alt="06A1CAE0-88FF-4FC0-A884-6E38A3CE27E6_1_201_a" src="https://github.com/user-attachments/assets/952a828e-1677-4766-b8f5-746c1f144c82" /> <br/>
-青枠部分の６箇所にスペーサーをネジで取り付けます。<br/>
-ボトム用ネジ（8mm）を２本用意します。 <br/>
+
+９箇所にスペーサーを取り付けていきます。<br/>
+<img width="4032" height="3024" alt="475AF272-3C8F-4894-ABC7-BE4B44F7E26F_1_201_a" src="https://github.com/user-attachments/assets/52403b43-817c-48e6-98aa-bfedf36c9f2b" /> <br/>
+
+青枠部分の９箇所にスペーサーをネジで取り付けます。<br/>
+四隅はすでにネジが付いているので、その内側の５本を先に付けていきます。<br>
+ボトム用ネジ（8mm）を５本用意します。 <br/>
 <br/>
 <br/>
 
-中央の２箇所にスペーサーを取り付けます。<br/>
-<img width="4032" height="3024" alt="8A3CE902-C2DF-4C0B-9669-FC1B9F5914F4_1_201_a" src="https://github.com/user-attachments/assets/2bdb6795-25c9-448c-96d6-c83a75b8a407" /> <br/>
-ボトムプレートの切り欠きが左側に来る状態で表が上面、逆側が底面です。<br/>
+内側５箇所にスペーサーを取り付けます。<br/>
+<img width="4032" height="3024" alt="9517394F-3090-4132-8F9F-15F21A87896E_1_201_a" src="https://github.com/user-attachments/assets/717dec13-5d60-483e-a841-37add4d50a7c" /> <br/>
 <br/>
 <br/>
 
@@ -175,14 +177,17 @@ MXキーキャップ |x10
 <br/>
 
 スペーサーを取り付けた所 <br/>
-<img width="768" height="1024" alt="A3B33F6C-48F6-4448-9350-AA5F5ACF295B_1_105_c" src="https://github.com/user-attachments/assets/67c84eb1-ed15-4b77-a7e1-ab70589e4c4e" /> <br/>
-同じように中央下側にもスペーサーを取り付けます。<br/>
+<img width="2048" height="1536" alt="27321502-02C0-4ABC-B115-A97F3F0970F5_1_102_a" src="https://github.com/user-attachments/assets/18d3289a-53d2-4e3e-9f42-c43cad399270" />
+ <br/>
+１つ出来たら残り４箇所にもにもスペーサーを取り付けます。<br/>
 <br/>
 <br/>
 
-１−１で作成したマグネット脚を同じ要領で四隅に取り付けます。<br/>
-<img width="4032" height="3024" alt="EB479EC1-0327-469C-B976-D223C7D51619_1_201_a" src="https://github.com/user-attachments/assets/428c91da-891b-464b-8c44-a6953195c951" /> <br/>
+１−１で作成したマグネット脚を同じ要領で上部に２つ取り付けます。<br/>
+<img width="4032" height="3024" alt="DB5C9089-646D-40F0-92C1-330C861E22EE_1_201_a" src="https://github.com/user-attachments/assets/6e41d454-7d46-4bb5-a19c-06b0e8b57c88" /> <br/>
 裏表を間違えないように気をつけましょう。 <br/>
+切り欠きのある上部にマグネット脚x２ <br/>
+切り欠きのない下部に通常脚x２ <br/>
 <br/>
 <br/>
 
@@ -192,12 +197,12 @@ MXキーキャップ |x10
 <br/>
 
 取り付け完了状態（上面） <br/>
-<img width="3024" height="4032" alt="F68B0DB4-A6A4-4C87-B431-0A353CD92024_1_201_a" src="https://github.com/user-attachments/assets/fb58c93f-dda7-4226-b0ef-500fe9196612" /> <br/>
+<img width="4032" height="3024" alt="E1AC9AAD-BF29-4419-B776-5B809F75F651_1_201_a" src="https://github.com/user-attachments/assets/5c4c6894-370b-4892-bc8e-e1bc8e93a9cf" /> <br/>
 <br/>
 <br/>
 
 取り付け完了状態（底面） <br/>
-<img width="3024" height="4032" alt="F91956F6-4891-46D9-A6E8-1D585448960E_1_201_a" src="https://github.com/user-attachments/assets/1cea6db0-23e9-46aa-b5fc-30ddb5c18472" /> <br/>
+<img width="4032" height="3024" alt="8E98EA5A-AE4C-4555-AA88-74AAB9F2E1D2_1_201_a" src="https://github.com/user-attachments/assets/15c835d0-5c73-4412-9c7c-5e79e75ccb33" /> <br/>
 これでボトムプレートは完成です。<br/>
 <br/>
 <br/>
