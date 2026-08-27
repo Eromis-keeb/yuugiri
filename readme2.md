@@ -45,6 +45,8 @@ https://github.com/Eromis-keeb/yuugiri/blob/2217565ba8053d60883e2770c6a3af40b109
 ボトム用ネジ（8mm）|x9
 脚用ネオジムマグネット(穴あき)|x2
 脚用マグネットカバー|x2
+脚|x2
+
 
 
 
