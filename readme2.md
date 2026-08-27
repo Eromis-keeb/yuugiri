@@ -14,7 +14,8 @@
 
 ## 組み立てにあたって
 
-<img width="1024" height="768" alt="5E71160D-2920-4F10-9ACA-105B6139C252_1_105_c" src="https://github.com/user-attachments/assets/0c5dab31-8806-4757-b30f-486f515857ba" />
+<img width="1024" height="768" alt="EC1B3D02-78BA-4D1A-BB50-DE724829FE93_1_105_c" src="https://github.com/user-attachments/assets/cd09a239-61b9-4ed0-9807-34ba85106b81" /> <br/>
+
 <br/>
 <br/>
 本キットには基板完成済みの通常版と基板の組み立てが必要なチャレンジキットがあります。<br/>
@@ -71,15 +72,14 @@ MXキーキャップ |x10
 #### 1-1.脚の組み立て<br/>
 <br/>
 ボトムプレートを組み立てていきます。<br/>
-<br/>
+<img width="2048" height="1536" alt="35ECBC9F-395A-4E59-8E8E-3F31BEBFCB89_1_102_o" src="https://github.com/user-attachments/assets/3203a6d2-b6d9-499d-8b5e-b940077a9e27" /> <br/>
 
-<img width="1024" height="768" alt="3B385812-37E2-4249-B79A-B397F9491C2E_1_105_c" src="https://github.com/user-attachments/assets/353951be-cd65-4993-b83c-48145d3f97c3" /> <br/>
 <br/>
 <br/>
 
 まず初めにマグネット脚を組み立てます。<br/>
-<img width="1024" height="768" alt="BAB4D48F-6B53-43CD-A5A4-15063EB05923_1_105_c" src="https://github.com/user-attachments/assets/04ffae0a-1a61-4eda-823b-e327d368c84b" /> <br/>
-ネオジムマグネット（穴あき）４つ、マグネット脚用カバー４つ、ボトム用ネジ（８mm）４つ用意します。<br/>
+<img width="1536" height="2048" alt="889E0885-E68E-4170-BEFA-8FDCB5975300_1_102_a" src="https://github.com/user-attachments/assets/5d22e5fc-ba1c-447f-b41f-28bb78c2481a" /> <br/>
+ネオジムマグネット（穴あき）2つ、マグネット脚用カバー2つ、通常脚２つ、ボトム用ネジ（８mm）４つ用意します。<br/>
 <br/>
 <br/>
 
@@ -115,11 +115,29 @@ MXキーキャップ |x10
 <br/>
 <br/>
 
-同様に残り３つを作成します。<br/>
-<img width="1024" height="768" alt="7019172F-A643-4C4D-9239-FC0337A2584E_1_105_c" src="https://github.com/user-attachments/assets/cdf6bb52-05e5-4771-b01e-3125df0587c0" /> <br/>
+同様にもう一つを作成します。<br/>
+<img width="1536" height="2048" alt="F2C116EB-2769-41E2-AF0A-8AFA8A0E0C27_1_102_a" src="https://github.com/user-attachments/assets/af686d70-5377-4ff8-9d03-b27811f68c4e" /><br/>
 マグネット脚のできあがり。<br/>
 <br/>
 <br/>
+
+続いて通常脚を作成します。<br/>
+<img width="3024" height="4032" alt="23E4F986-0A1D-4181-ADE3-903D26D304FD_1_201_a" src="https://github.com/user-attachments/assets/bcccdda1-bfdc-4481-8607-5d9ff5652c26" /> <br/>
+赤枠内の穴の小さい部品を使います。<br/>
+<br/>
+
+8mmネジをドライバーを使ってねじ込んでいきます。<br/>
+<img width="3024" height="4032" alt="7580F283-7379-47BA-BB3C-0030A2CBF134_1_201_a" src="https://github.com/user-attachments/assets/b094eddd-c30f-45c6-918a-4cabb8ab332d" /> <br/>
+<img width="1536" height="2048" alt="EA0AA4E5-E3F8-4E1A-89D9-8F03FD29EA79_1_102_o" src="https://github.com/user-attachments/assets/ce823ba8-5b95-4cfd-aa41-5142af6d4aee" /> <br/>
+<img width="1536" height="2048" alt="23C7815B-66A1-4136-8DFF-0967704618F5_1_102_o" src="https://github.com/user-attachments/assets/ad579330-13bb-4c8a-b1ee-4cb25452fcd7" /> <br/>
+このように平らになるまで捻じ込めばOK <br/>
+<br/>
+
+
+
+
+
+
 
 #### 1-2.スペーサー取り付け<br/>
 <br/>
