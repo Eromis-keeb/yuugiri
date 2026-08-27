@@ -213,25 +213,27 @@ MXキーキャップ |x10
 
 
 ### 2.基板の組み付け
-#### ２-1.ミドルプレート下の取り付け<br/>
+#### ２-1.ミドルフレームの取り付け<br/>
 <br/>
 
-1ー2までに作ったボトムプレートにミドルプレートを組み付けていきます。<br/>
-<img width="1024" height="768" alt="4AC758EF-DF96-43F8-9C15-A85DCB240132_1_105_c" src="https://github.com/user-attachments/assets/ddc1873d-ca1a-4cc1-8f5e-cdf2704ee5f7" /> <br/>
-ミドルプレート下を用意します。<br/>
-このとき必要であればカスタムプレートなどを使用することもできます。<br/>
+1ー2までに作ったボトムプレートにミドルフレームを組み付けていきます。<br/>
+ここでは取っ手付きミドルフレーム（３DP製）を使用した場合の説明をしますが、アクリルフレームを使った場合も同じ手順です。<br/>
+<img width="2048" height="1536" alt="54F3929C-294C-4995-B580-9CCCAD9A0910_1_102_o" src="https://github.com/user-attachments/assets/299c1f70-6c44-4f5f-a22c-df8a85a8e284" />
+ <br/>
+ミドルフレームを用意します。<br/>
+このとき必要であれば取っ手なしのアクリルフレームなどを使用することもできます。<br/>
 <br/>
 <br/>
 
-ミドルプレートをボトムプレートに乗せてスペーサーを差し込む形で組み付けます。 <br/>
-<img width="4032" height="3024" alt="ECCCB265-FFF9-4933-B97E-25517A3C1AF2_1_201_a" src="https://github.com/user-attachments/assets/f18d44e3-0a57-4fda-b74d-533ddf546bdb" /> <br/>
+ミドルフレームをボトムプレートに乗せてスペーサーを差し込む形で組み付けます。 <br/>
+<img width="4032" height="3024" alt="7300A725-0CA0-428C-958C-B7F567D4165B_1_201_a" src="https://github.com/user-attachments/assets/d05d9998-33dc-4150-9ce2-81c9435a1c71" /> <br/>
 隙間がないように差し込んでください。 <br/>
 ![IMG_7154](https://github.com/user-attachments/assets/aa1b5fc9-c2e2-4aa2-a70f-e9af4f91dc79)<br/>
 <br/>
 <br/>
 
 ※上記の差し込みを行う際、固くて差し込みにくい場合は無理せず以下の写真のように
-ミドルプレートの各スペーサ穴をボトムプレートを使って予め差し込みやすくしてから
+ミドルフレームの各スペーサ穴をボトムプレートを使って予め差し込みやすくしてから
 全体を差し込むとすんなり入ると思います。<br/>
 無理に強行するとアクリルが割れます。<br/>
 注意して差し込んでください。 <br/>
@@ -239,8 +241,9 @@ MXキーキャップ |x10
 <br/>
 <br/>
 
-ミドルプレート下の取り付け完了 <br/>
-<img width="768" height="1024" alt="95E9BBB1-7182-4DC9-8EB6-4A8C3A51A9C3_1_105_c" src="https://github.com/user-attachments/assets/cccda228-ea41-4ff3-b087-1599144630d5" /> <br/>
+ミドルフレームの取り付け完了 <br/>
+<img width="2048" height="1536" alt="8B4AD7B8-D081-4701-9CCD-7F9F0B2AB30D_1_102_o" src="https://github.com/user-attachments/assets/a44cddc5-c9ef-48d6-8fdb-6f232ad3809c" />
+ <br/>
 <br/>
 <br/>
 
